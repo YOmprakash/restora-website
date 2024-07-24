@@ -1,5 +1,6 @@
 
 import {CUSINES} from "../constants";
+import { motion } from "framer-motion";
 const Expertise = () => {
   return (
     <section className="mb-8">
