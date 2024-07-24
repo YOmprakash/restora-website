@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar";
 import About from "./components/About";
 import Mission from "./components/Mission";
 import Expertise from "./components/Expertise";
+import Review from "./components/Review";
 
 export default function App() {
   return (
@@ -15,6 +16,7 @@ export default function App() {
       <About />
       <Mission />
       <Expertise/>
+      <Review/>
     </main>
   );
 }
