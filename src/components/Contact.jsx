@@ -1,7 +1,7 @@
 import { CONTACT } from "../constants";
 const Contact = () => {
   return (
-    <section
+    <section id="contact"
       className="container mx-auto
      py-16 px-10 lg:px-16"
     >

@@ -28,7 +28,7 @@ const itemVariants = {
 };
 const Expertise = () => {
   return (
-    <section className="mb-8">
+    <section className="mb-8" id="expertise">
       <h2 className="my-4 text-white text-center text-3xl lg:text-4xl">
         Our Expertise
       </h2>

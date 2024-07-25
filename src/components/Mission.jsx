@@ -5,7 +5,7 @@ import {MISSION} from "../constants"
 import { motion } from "framer-motion";
 const Mission = () => {
   return (
-    <section className="container mx-auto mb-8 text-center">
+    <section className="container mx-auto mb-8 text-center" id="mission">
         <h2 className="text-3xl text-white mb-8">Our Mission</h2>
         <div className=" flex items-center justify-center relative">
             <motion.video 

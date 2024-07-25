@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 const About = () => {
   return (
-    <section className=" container mb-8 text-white mx-auto">
+    <section className=" container mb-8 text-white mx-auto" id="about">
     <h2 className="text-3xl text-white text-center mb-10">About Us</h2>
     <div className="flex flex-wrap">
       <img

@@ -4,7 +4,7 @@ import hero from "../assets/hero.jpeg";
 import { motion } from "framer-motion";
 const HeroSection = () => {
   return (
-    <section className="relative h-screen flex justify-center items-center">
+    <section className="relative h-screen flex justify-center items-center " id="hero">
       <div className=" absolute overflow-hidden h-full w-full -z-10 inset-0">
         <video
           src={video}
